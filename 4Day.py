@@ -18,7 +18,7 @@
 # div(100,2)
 
 #                                                                      🙌 𝕄𝕠𝕕𝕦𝕝𝕖𝕤 🙌
-import z_my_module as hemlo
+import z_my_module_day4 as hemlo
 
 result = hemlo.multiplication (10000,10)
 print (result)
