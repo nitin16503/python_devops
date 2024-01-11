@@ -1,6 +1,6 @@
-#                                                           ℂ𝕠𝕞𝕞𝕒𝕟𝕕 𝕃𝕚𝕟𝕖 𝔸𝕣𝕘𝕤🙌🙌 
+#                                                        ℂ𝕠𝕞𝕞𝕒𝕟𝕕 𝕃𝕚𝕟𝕖 𝔸𝕣𝕘𝕤🙌🙌 
 # Alow us to execute function / operation through command line interface eg-: aws ec2 ls 
-#  "sys" -> module used.
+#  "sys" -> module used. It is use for taking input.
 
 import sys
 
