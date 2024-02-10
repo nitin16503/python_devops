@@ -30,7 +30,7 @@
 # print("Split : " , words)
 
 # #<----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-# #Strip
+# #Strip --> remove space from front and behind of the text
 # stripped_text = result.strip()
 # print("Stripped text:", stripped_text)
 
